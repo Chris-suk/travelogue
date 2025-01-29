@@ -24,23 +24,18 @@ p{
     border-bottom: 70px solid rgb(255, 255, 255); 
     border-radius: 2%;
 }
-#zoo {
+#zoo, #lights {
     width: 250px;
-    display: flex;
-    justify-content: center;
     margin: auto;
     border: 10px solid rgb(255, 253, 253); 
     border-bottom: 70px solid rgb(255, 255, 255); 
     border-radius: 2%;
+    
 }
-#lights {
-    width: 250px;
+.zooimage {
     display: flex;
+    gap: 2rem;
     justify-content: center;
-    margin: auto;
-    border: 10px solid rgb(255, 253, 253); 
-    border-bottom: 70px solid rgb(255, 255, 255); 
-    border-radius: 2%;
 }
 #list {
     width: 250px;
